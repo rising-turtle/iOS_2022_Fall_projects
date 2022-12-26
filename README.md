@@ -99,5 +99,6 @@ Authors: _Todd Pinsenschaum II, Levi Conrad_
 ## 14. Mnemon 
 
 Authors: _Christian Previtali, Caleb Johnson_
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MCYLJSi1Fts" target="_blank"><img src="http://img.youtube.com/vi/MCYLJSi1Fts/0.jpg"  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
